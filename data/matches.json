@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "team1": "Real Madrid",
+      "team2": "FC Barcelona",
+      "score1": 2,
+      "score2": 1
+    },
+    {
+      "id": 2,
+      "team1": "Liverpool FC",
+      "team2": "Bayern Munich",
+      "score1": 3,
+      "score2": 2
+    },
+    {
+      "id": 3,
+      "team1": "FC Barcelona",
+      "team2": "Bayern Munich",
+      "score1": 1,
+      "score2": 2
+    },
+    {
+      "id": 4,
+      "team1": "Real Madrid",
+      "team2": "Liverpool FC",
+      "score1": 2,
+      "score2": 2
+    }
+  ]
+  
